@@ -1,0 +1,4 @@
+packages/*/.next
+packages/*/.turbo
+apps/*/.next
+apps/*/.turbo
